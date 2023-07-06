@@ -1,0 +1,117 @@
+[
+    {
+        "file": "D:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunner.Build.cs",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunner.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunner.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunnerGameModeBase.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunnerGameModeBase.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\RunAnimInstance.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\RunAnimInstance.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\RunCharacter.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\RunCharacter.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\FloorTile.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\FloorTile.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\CoinItem.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\CoinItem.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\CoinsItem.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\CoinsItem.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\Obstical.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\Obstical.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\Money.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\Money.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\GameHUd.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\GameHUd.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\PauseMenu.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\UE project\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\PauseMenu.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\UE project\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.210.rsp\"",
+        "directory": "D:\\UE_4.27\\Engine\\Source"
+    }
+]

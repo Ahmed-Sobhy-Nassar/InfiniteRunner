@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "EndlessRunner",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "D:\\UE_4.27"
+		} 
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"D:\\UE project\\EndlessRunner\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\EndlessRunner\\Definitions.EndlessRunner.h",
+			"D:\\UE project\\EndlessRunner\\Intermediate\\Build\\Win64\\EndlessRunnerEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		],
+		"files.associations": {
+			"*.rh": "cpp"
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
